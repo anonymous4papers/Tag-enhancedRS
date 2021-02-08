@@ -1,4 +1,4 @@
-# TSML
+# Tag-enhancedRS
 This repository contains a implementation of our "Reorganizing Users by Item Tags for Recommendation".
 
 ## Environment Setup
